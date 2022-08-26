@@ -1,5 +1,6 @@
 import React from "react";
 
+// for when user goes to a page not created
 function NotFound() {
   return (
     <div className="NotFound">
