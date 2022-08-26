@@ -1,9 +1,29 @@
+#+TITLE: Flashcard Readme
+#+AUTHOR: Justin Bealer
+#+DESCRIPTION: This is the read for Flashcard app
+#+KEYWORDS: react, javascript
+#+LANGUAGE: en
 #+STARTUP: inlineimages
 
-* Flashcard Web App
-
-Flashcard-o-matic
+* Flashcard-o-matic
 
 Can use this application too create decks of flash cards.
 
+** Home Page
 [[file:data/Home.png]]
+
+** Create Deck
+[[file:data/CreateDeck.png]]
+
+** Deck
+[[file:data/Deck.png]]
+
+** Edit Deck
+[[file:data/EditDeck.png]]
+
+** Study
+[[file:data/Study.png]]
+
+** Edit Card
+[[file:data/EditCard.png]]
+[[file:data/AddCard.png]]
