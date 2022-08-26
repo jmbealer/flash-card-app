@@ -1,15 +1,21 @@
-#+TITLE: Flashcard Readme
+#+TITLE: Flashcard-o-matic
 #+AUTHOR: Justin Bealer
 #+DESCRIPTION: This is the read for Flashcard app
 #+KEYWORDS: react, javascript
 #+LANGUAGE: en
 #+STARTUP: inlineimages
 
-* Flashcard-o-matic
-
 Can use this application too create decks of flash cards.
+This is a web application for studying with flash cards.
+You can also create decks and cards.
 
-** Home Page
+** Home
+
+This is the home page and it should show:
++ Create Deck button: which will send you to the create deck page
++ Then a list of your made decks
+  + And also have buttons to View, Study and Delete deck
+
 [[file:data/Home.png]]
 
 ** Create Deck
