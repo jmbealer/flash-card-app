@@ -1,1 +1,9 @@
+#+STARTUP: inlineimages
+
 * Flashcard Web App
+
+Flashcard-o-matic
+
+Can use this application too create decks of flash cards.
+
+[[file:data/Home.png]]
