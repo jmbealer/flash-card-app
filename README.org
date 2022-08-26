@@ -11,25 +11,46 @@ You can also create decks and cards.
 
 ** Home
 
-This is the home page and it should show:
+The home page shows:
 + Create Deck button: which will send you to the create deck page
 + Then a list of your made decks
   + And also have buttons to View, Study and Delete deck
 
 [[file:data/Home.png]]
 
-** Create Deck
-[[file:data/CreateDeck.png]]
-
 ** Deck
+
+Here you can see your deck details.
++ You can edit, study, delete or add card to your deck.
++ You can also edit and delete card
+
 [[file:data/Deck.png]]
 
+** Create Deck
+
+This is where you can create you deck:
++ There are two fields for the Name and Description of deck
++ Also two button to cancel and submit
+
+[[file:data/CreateDeck.png]]
+
 ** Edit Deck
+
+Similar to create deck just for already made deck instead of new one.
+
 [[file:data/EditDeck.png]]
 
 ** Study
+
+Here you start studying for your cards
+
 [[file:data/Study.png]]
 
 ** Edit Card
+Here you can edit you card
+
 [[file:data/EditCard.png]]
+
+Just like edit card
+
 [[file:data/AddCard.png]]
