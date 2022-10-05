@@ -1,15 +1,32 @@
 #+TITLE: Flashcard-o-matic
 #+AUTHOR: Justin Bealer
-#+DESCRIPTION: This is the read for Flashcard app
+#+DESCRIPTION: This is the readme for Flashcard app
 #+KEYWORDS: react, javascript
 #+LANGUAGE: en
 #+STARTUP: inlineimages
+
+* The project premise:
+
+A local school has decided to put together a flash card application,
+Flashcard-o-matic, to help their students study online. Teachers will use this
+application to create decks of flash cards for the subjects that they teach, and
+students will study the decks. The school needs you to build the application
+that the students and teachers will use.
 
 Can use this application too create decks of flash cards.
 This is a web application for studying with flash cards.
 You can also create decks and cards.
 
-** Home
+* Learning objectives for this project:
+
++ Installing packages via NPM
++ Running tests from the command line
++ Writing React function components
++ Creating routes, including nested routes, using React Router
++ Using hooks like useState(), useParams(), and useHistory()
++ Debugging React code through console output and using the VS Code debugg
+
+* Home
 
 The home page shows:
 + Create Deck button: which will send you to the create deck page
@@ -18,7 +35,7 @@ The home page shows:
 
 [[file:data/Home.png]]
 
-** Deck
+* Deck
 
 Here you can see your deck details.
 + You can edit, study, delete or add card to your deck.
@@ -26,7 +43,7 @@ Here you can see your deck details.
 
 [[file:data/Deck.png]]
 
-** Create Deck
+* Create Deck
 
 This is where you can create you deck:
 + There are two fields for the Name and Description of deck
@@ -34,19 +51,19 @@ This is where you can create you deck:
 
 [[file:data/CreateDeck.png]]
 
-** Edit Deck
+* Edit Deck
 
 Similar to create deck just for already made deck instead of new one.
 
 [[file:data/EditDeck.png]]
 
-** Study
+* Study
 
 Here you start studying for your cards
 
 [[file:data/Study.png]]
 
-** Edit Card
+* Edit Card
 Here you can edit you card
 
 [[file:data/EditCard.png]]
